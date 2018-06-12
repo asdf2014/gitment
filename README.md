@@ -1,5 +1,5 @@
 # gitment
-　[gitment for](https://github.com/asdf2014/gitment/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc) [https://yuzhouwan.com](https://yuzhouwan.com)
+　[gitment](https://github.com/asdf2014/gitment/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc) for [https://yuzhouwan.com](https://yuzhouwan.com)
 
 # blog
 ## Welcome
