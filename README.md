@@ -25,6 +25,8 @@
 | 回归 Github Page | Github Page 开始支持 HTTPS                                   | 2019-04-20 |
 | 全站 CDN         | 阿里云 DCDN                                                  | 2019-04-21 |
 | 简繁切换         | 支持简体与繁体切换                                           | 2019-04-27 |
+| 支持 Gitalk      | Gitment 验证存在跨域问题，而 Gitalk 可以无缝迁移             | 2019-05-01 |
+| 支持 DaoVoice    | 可以匿名留言，在线沟通                                       | 2019-05-02 |
 
 <!--more-->
 
@@ -33,7 +35,7 @@
 
 - Advance [Maven](https://yuzhouwan.com/posts/2254/) Skill
 - [BigData](https://yuzhouwan.com/tags/)
-    - [Hadoop](https://yuzhouwan.com/posts/60504/) **/** [Storm](https://yuzhouwan.com/posts/25015/) **/** [Spark](https://yuzhouwan.com/posts/4735/) **/** [HBase](https://yuzhouwan.com/posts/45888/) **/** [ElasticSearch](https://yuzhouwan.com/posts/22654/) **/** [Druid](https://yuzhouwan.com/posts/5845/) **/** [Kafka](https://yuzhouwan.com/posts/26002/) **/** [Flume](https://yuzhouwan.com/posts/22654#%e6%95%b4%e5%90%88%e5%bc%80%e5%8f%91) **/** [Redis](https://yuzhouwan.com/posts/2129/) **/** [Zookeeper](https://yuzhouwan.com/posts/31915/)
+     - [Hadoop](https://yuzhouwan.com/posts/60504/) **/** [Storm](https://yuzhouwan.com/posts/25015/) **/** [Spark](https://yuzhouwan.com/posts/4735/) **/** [HBase](https://yuzhouwan.com/posts/45888/) **/** [ElasticSearch](https://yuzhouwan.com/posts/22654/) **/** [Druid](https://yuzhouwan.com/posts/5845/) **/** [Kafka](https://yuzhouwan.com/posts/26002/) **/** [Flume](https://yuzhouwan.com/posts/22654#%e6%95%b4%e5%90%88%e5%bc%80%e5%8f%91) **/** [Redis](https://yuzhouwan.com/posts/2129/) **/** [Zookeeper](https://yuzhouwan.com/posts/31915/)
 - Hack technology
      - [Algorithm](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/algorithms) **/** [Leetcode](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/algorithms/leetcode) **/** [Code Generate](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/codegen) **/** [Effective Code](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/effective) **/** [Multi Threads](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/algorithms/thread) **/** [Lambda](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/lambda) **/** [SNMP](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/snmp)
 - Languages
@@ -81,6 +83,5 @@
 　Just Google it :D
 
 ![Google Yuzhouwan.com](https://picture.yuzhouwan.com/google_yuzhouwan.png?imageslim)
-
 
 
