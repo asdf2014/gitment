@@ -1,3 +1,4 @@
+
 ## Welcome
 
 　**Welcome to My Blog!**
@@ -27,6 +28,8 @@
 | 简繁切换         | 支持简体与繁体切换                                           | 2019-04-27 |
 | 支持 Gitalk      | Gitment 验证存在跨域问题，而 Gitalk 可以无缝迁移             | 2019-05-01 |
 | 支持 DaoVoice    | 可以匿名留言，在线沟通                                       | 2019-05-02 |
+| 暂闭 DaoVoice    | 出于其服务稳定性的考量，暂时关闭                             | 2019-05-11 |
+| 设计 Logo        | 新 Logo 寓意着浩瀚宇宙中的一处安心的港湾                     | 2019-05-11 |
 
 <!--more-->
 
@@ -35,14 +38,15 @@
 
 - Advance [Maven](https://yuzhouwan.com/posts/2254/) Skill
 - [BigData](https://yuzhouwan.com/tags/)
-     - [Hadoop](https://yuzhouwan.com/posts/60504/) **/** [Storm](https://yuzhouwan.com/posts/25015/) **/** [Spark](https://yuzhouwan.com/posts/4735/) **/** [HBase](https://yuzhouwan.com/posts/45888/) **/** [ElasticSearch](https://yuzhouwan.com/posts/22654/) **/** [Druid](https://yuzhouwan.com/posts/5845/) **/** [Kafka](https://yuzhouwan.com/posts/26002/) **/** [Flume](https://yuzhouwan.com/posts/22654#%e6%95%b4%e5%90%88%e5%bc%80%e5%8f%91) **/** [Redis](https://yuzhouwan.com/posts/2129/) **/** [Zookeeper](https://yuzhouwan.com/posts/31915/)
+  - [Hadoop](https://yuzhouwan.com/posts/60504/) **/** [Storm](https://yuzhouwan.com/posts/25015/) **/** [Spark](https://yuzhouwan.com/posts/4735/) **/** [HBase](https://yuzhouwan.com/posts/45888/) **/** [ElasticSearch](https://yuzhouwan.com/posts/22654/) **/** [Druid](https://yuzhouwan.com/posts/5845/) **/** [Kafka](https://yuzhouwan.com/posts/26002/) **/** [Flume](https://yuzhouwan.com/posts/22654/#%e6%95%b4%e5%90%88%e5%bc%80%e5%8f%91) **/** [Redis](https://yuzhouwan.com/posts/2129/) **/** [Zookeeper](https://yuzhouwan.com/posts/31915/)
 - Hack technology
-     - [Algorithm](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/algorithms) **/** [Leetcode](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/algorithms/leetcode) **/** [Code Generate](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/codegen) **/** [Effective Code](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/effective) **/** [Multi Threads](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/algorithms/thread) **/** [Lambda](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/lambda) **/** [SNMP](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/snmp)
+  - [Algorithm](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/algorithms) **/** [Leetcode](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/algorithms/leetcode) **/** [Code Generate](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/codegen) **/** [Effective Code](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/effective) **/** [Multi Threads](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/algorithms/thread) **/** [Lambda](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/lambda) **/** [SNMP](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker/snmp)
 - Languages
-     - [Java](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker) for Most Logic **/** [Scala](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/scala/com/yuzhouwan/hacker) Feature **/** [Groovy](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/groovy/com/yuzhouwan/hacker) for DSL **/** [Python](https://yuzhouwan.com/posts/43687/) for [SQL Parser](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/yuzhouwan-hacker-python) & [AI](https://yuzhouwan.com/posts/42737/) **/** [Shell](https://github.com/asdf2014/yuzhouwan/blob/master/yuzhouwan-common/src/main/resources/shell/gc_monitor2.sh) for [JVM](https://yuzhouwan.com/posts/27328/) Monitor
+  - [Java](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/java/com/yuzhouwan/hacker) for Most Logic **/** [Scala](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/scala/com/yuzhouwan/hacker) Feature **/** [Groovy](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/src/main/groovy/com/yuzhouwan/hacker) for DSL **/** [Python](https://yuzhouwan.com/posts/43687/) for [SQL Parser](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-hacker/yuzhouwan-hacker-python) & [AI](https://yuzhouwan.com/posts/42737/) **/** [Shell](https://github.com/asdf2014/yuzhouwan/blob/master/yuzhouwan-common/src/main/resources/shell/gc_monitor2.sh) for [JVM](https://yuzhouwan.com/posts/27328/) Monitor
 - [WebSite](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-site)
-     - [RPC](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-site/yuzhouwan-site-service/src/test/java/com/yuzhouwan/site/service) **/** [NIO](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-site/yuzhouwan-site-service/src/main/java/com/yuzhouwan/site/service/nio) **/** [Spring](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-site/yuzhouwan-site-service/src/main/resources) stuff **/** [Swagger](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-site/yuzhouwan-site-service/src/main/webapp) for Doc
+  - [RPC](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-site/yuzhouwan-site-service/src/test/java/com/yuzhouwan/site/service) **/** [NIO](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-site/yuzhouwan-site-service/src/main/java/com/yuzhouwan/site/service/nio) **/** [Spring](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-site/yuzhouwan-site-service/src/main/resources) stuff **/** [Swagger](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-site/yuzhouwan-site-service/src/main/webapp) for Doc
 - A lot of Commons [Utils](https://github.com/asdf2014/yuzhouwan/tree/master/yuzhouwan-common/src/main/java/com/yuzhouwan/common/util)
+
 
 
 
@@ -50,7 +54,7 @@
 
 ### BigData 生态圈
 
-**[BigData 生态圈](https://yuzhouwan.com/tags/)**　[![](https://img.shields.io/badge/QQ%E7%BE%A4-1670647-blue.svg)](https://shang.qq.com/wpa/qunwpa?idkey=f86b3c8de20da1658a3bb42df17a2fc4eee0d75c4a130a63585fdd257e3565ed)　（**1000** 人大群）
+**[BigData 生态圈](https://yuzhouwan.com/categories/大数据/)**　[![](https://img.shields.io/badge/QQ%E7%BE%A4-1670647-blue.svg)](https://shang.qq.com/wpa/qunwpa?idkey=f86b3c8de20da1658a3bb42df17a2fc4eee0d75c4a130a63585fdd257e3565ed)　（**1000** 人大群）
 
 　本群创建于 2012/11/15：
 　讨论大数据生态圈的各种领域，包括
@@ -82,6 +86,6 @@
 
 　Just Google it :D
 
-![Google Yuzhouwan.com](https://picture.yuzhouwan.com/google_yuzhouwan.png?imageslim)
+![Google Yuzhouwan.com](https://camo.githubusercontent.com/cfac1ee3de5b3423caa5a76594d4726d49935610/68747470733a2f2f706963747572652e79757a686f7577616e2e636f6d2f676f6f676c655f79757a686f7577616e2e706e673f696d616765736c696d)
 
 
