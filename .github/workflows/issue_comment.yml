@@ -19,5 +19,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: 'Hi, @${{github.event.comment.user.login}}. Welcome to join! :clap::clap::clap: The `Collaborator` permission has be granted to you.\n\nPlease click https://github.com/asdf2014/algorithm/invitations to accept it.\n\nThen, if you are using a Unix-like operating system (such as Linux, MacOS, etc.), you can use the following command to submit the first commit:\n\n```bash\nbash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/first_commit.sh)"\n```\n'
+              body: 'Hi, @${{github.event.comment.user.login}}. Welcome to join! :clap::clap::clap: The `Collaborator` permission has be granted to you.\n\nPlease click https://github.com/asdf2014/algorithm/invitations to accept it.\n\nThen, if you are using a Unix-like operating system (such as Linux, MacOS, etc.), you can use the following command to submit the first commit:\n\n```bash\nbash -c "$(curl -L https://raw.githubusercontent.com/asdf2014/algorithm/master/first_commit.sh)"\n```\nIn addition, if you are using a Windows system, you can also use this script through Powershell or Git Bash. Of course, if you are familiar with Git commands, you can also submit the code yourself.\n'
             })
