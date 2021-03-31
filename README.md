@@ -1,14 +1,8 @@
 [<img align="right" width="30%" height="30%" src="https://user-images.githubusercontent.com/8108788/58363706-18c4d080-7edb-11e9-947a-cf7233c8e2cc.png">](https://yuzhouwan.com/)
 
-## My Blog
-__[https://yuzhouwan.com](https://yuzhouwan.com)__
-
-(Hexo + Github Page，利用 Node.js 的 NIO 框架快速生成，配合 Github 静态页面托管)
-
----------------
 ## Welcome
 
-　**Welcome to My Blog!**
+　**Welcome to My Blog（[https://yuzhouwan.com](https://yuzhouwan.com)）!**
 
 
 ## 博客介绍
